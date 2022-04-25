@@ -1,0 +1,6 @@
+I wrote my solution in python.
+The resources I consulted are:
+https://docs.python.org/2/library/pickle.html
+https://www.techiedelight.com/find-longest-common-prefix-lcp-strings/
+https://pypi.org/project/pysuffixarray/
+Suffix array paper share in class 
